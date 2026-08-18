@@ -6,8 +6,8 @@
     "type": "online"
   },
   "server": {
-    "ip": "taggot.play.hosting",
-    "port": 54688,
+    "ip": "62.141.62.29",
+    "port": 37799,
     "version": "",
     "try-creative": false
   },
